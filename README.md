@@ -8,7 +8,7 @@
 
 I'm a passionate and results-driven professional with expertise in **creating professional, responsive websites using WordPress**. My focus is on delivering visually appealing and highly functional sites for businesses, from establishing an online presence to setting up e-commerce stores.
 
-Currently, I am on an exciting path to transition into **cloud engineering**. I'm actively building my skills in cloud infrastructure, automation, and continuous delivery, with a keen interest in **DevOps methodologies** to create scalable and resilient web solutions. My experience with WordPress gives me a strong understanding of web environments from a site builder's perspective, which provides a unique foundation for my cloud journey.
+I am currently a **Cloud Engineering student at AltSchool Africa**, on an exciting path to transition into cloud engineering. I'm actively building my skills in cloud infrastructure, automation, and continuous delivery, with a keen interest in **DevOps methodologies** to create scalable and resilient web solutions. My experience with WordPress gives me a strong understanding of web environments from a site builder's perspective, which provides a unique foundation for my cloud journey.
 
 ### 🛠️ My Skillset
 
