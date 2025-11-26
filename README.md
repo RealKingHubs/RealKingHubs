@@ -35,12 +35,12 @@ Here are a few projects that demonstrate my skills in website creation:
 *   **LinkedIn:** [Your LinkedIn Profile URL]
 *   **Twitter:** [Your Twitter Handle URL]
 *   **Email:** [Your Email Address]
--->
+
 <br>
 
 ---
 
 ### GitHub Stats
 
-[![Odo Kingsley Uchenna's GitHub stats](github-readme-stats.vercel.app)](github.com)
+[![Odo Kingsley Uchenna's GitHub stats](github-readme-stats.vercel.app)](github.com)-->
 
