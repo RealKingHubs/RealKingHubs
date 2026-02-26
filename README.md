@@ -55,10 +55,3 @@ I am a Cloud Engineering student at **AltSchool Africa** (Class of 2026). I spec
 *   **<a href = "odokingsleyu@gmail.com">Email</a>** 
 
 **Available for Remote Cloud Engineer/DevOps Internships**
-
----
-
-### GitHub Stats
-
-[![Odo Kingsley Uchenna's GitHub stats](github-readme-stats.vercel.app)](github.com)
-
