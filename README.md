@@ -1,7 +1,7 @@
 # Hi, I’m Odo Kingsley Uchenna 👋 
 ### Cloud & DevOps Engineer | Problem Solver
 
-I am a Cloud Engineering student at **AltSchool Africa** (Class of 2026). I specialize in building secure, high-availability cloud infrastructure that moves away from manual "Click-Ops" toward full automation.
+I am a Cloud Engineering student at **AltSchool Africa** (Class of 2025). I specialize in building secure, high-availability cloud infrastructure that moves away from manual "Click-Ops" toward full automation.
 
 ---
 
