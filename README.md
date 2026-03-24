@@ -1,57 +1,73 @@
-# Hi, I’m Odo Kingsley Uchenna 👋 
-### Cloud & DevOps Engineer | Problem Solver
+<h1 align="center">Hi, I'm Odo Kingsley Uchenna 👋</h1>
+<h3 align="center">Cloud & DevOps Engineer | Building Secure, Scalable Infrastructure on AWS</h3>
 
-I am a Cloud Engineering student at **AltSchool Africa** (Class of 2025). I specialize in building secure, high-availability cloud infrastructure that moves away from manual "Click-Ops" toward full automation.
-
----
-
-### Featured Project: Secure Web Application Deployment (AWS & Ansible)
-[LINK_TO_REPO](https://github.com/RealKingHubs/aws-ansible-secure-web-deployment.git)
-
-**The Challenge:** Deploy a high-availability web application with zero public exposure for backend servers.
-
-**The Solution:**
-*   **Architecture:** Designed a 3-tier system featuring **1 Bastion Host** (Public) and **2 Private Web Servers** (Private Subnet).
-*   **High Availability:** Implemented an **AWS Application Load Balancer (ALB)** and **Target Groups** to distribute traffic, ensuring the application is only accessible via the ALB DNS.
-*   **Security:** Enforced strict SSH access using **ProxyJump**. SSH is only permitted from my local machine to the Bastion, and from the Bastion to the Private Web Servers.
-*   **Automation:** Used **Ansible** to automate the entire configuration installing NGINX, managing services, and deploying dynamic HTML content that displays unique Instance Hostnames/IPs.
-*   **Git:** For version control. With git I have created a ready to deploy Ansible configuration files that has Bash Script attached to it check out the repo for more info on what the bash does.
-  
-**Key Outcome:** Successfully eliminated manual server configuration and ensured 100% network isolation for production workloads.
+<p align="center">
+  <a href="https://www.linkedin.com/in/kingsley-odo-8b81a6369/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://medium.com/@RealKingHubs">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
+  <a href="mailto:odokingsleyu@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-###  Additional Projects
+### 👨‍💻 About Me
 
-#### Infrastructure Automation with Terraform.
-[LINK_TO_REPO:](https://github.com/RealKingHubs/terraform-vpc-docker-automation.git)
-*   **Problem:** Manual resource creation is slow and prone to "Human Error."
-*   **Solution:** Used **Terraform** to provision a complete networking stack and deploy a containerized application on a public EC2 instance.
-*   **Innovation:** Integrated `userdata.tpl` to bootstrap **Docker** automatically on launch, solving the "it works on my machine" problem.
-
----
-
-###  Technical Toolkit
-
-*   **Cloud Platform:** AWS (EC2, VPC, ALB, CLB, Target Groups, S3, IAM, Amplify)
-*   **Automation & IaC:** Ansible (Configuration Management), Terraform (Provisioning)
-*   **Security & Networking:** Bastion Hosts, SSH ProxyJump, Private/Public Subnets, Security Groups
-*   **Containers & OS:** Docker, Linux Administration (Ubuntu/Amazon Linux), Bash Scripting
-*   **Development:** Python, JavaScript, Git/GitHub
+- 🎓 Cloud Engineering Student at **AltSchool Africa** (Class of 2025)
+- 🏆 Scored **89/100** in First Semester and a **perfect 100/100** in Second Semester
+- ☁️ I specialize in building **secure, highly available** cloud infrastructure on AWS
+- 🔧 I move infrastructure away from manual Click-Ops toward **full automation**
+- ✍️ I document every project with architectural diagrams on **Medium**
+- 📍 Based in **Ewekoro, Ogun State, Nigeria**
+- 💼 **Available for Remote Cloud Engineer / DevOps Internships**
 
 ---
 
-### Engineering Philosophy
-> "Me: 1 | Terraform: 0. I believe that if an infrastructure isn't documented and automated, it isn't production-ready."
+### 🛠️ Technical Toolkit
 
-*   **Problem Solver:** I thrive on overcoming architectural challenges, such as configuring secure communication between isolated subnets.
-*   **Documentation:** I document every workflow on **Medium** with professional architectural diagrams.
+<p>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+</p>
 
 ---
 
-### Connect with Me
-*   **<a href = "https://www.linkedin.com/in/kingsley-odo-8b81a6369/">LinkedIn</a>**
-*   **<a href = "https://medium.com/@RealKingHubs">Medium</a>**
-*   **<a href = "odokingsleyu@gmail.com">Email</a>** 
+### 🚀 Featured Projects
 
-**Available for Remote Cloud Engineer/DevOps Internships**
+#### 1. CI/CD Pipeline — Containerized Node.js to AWS ECS Fargate
+> Designed and implemented a secure production-grade CI/CD pipeline using GitHub Actions with OIDC authentication to deploy a containerized Node.js backend to AWS ECS Fargate — zero long-lived credentials.
+
+🔗 [View Repository](https://github.com/RealKingHubs/CICD-Automation-Pipeline)
+
+---
+
+#### 2. Production-Grade AWS Infrastructure with Terraform
+> Provisioned a multi-AZ VPC with public and private subnets, redundant NAT Gateways, an Application Load Balancer routing to a private Auto Scaling Group of Apache web servers, and a Bastion Host. Remote state stored in S3 with DynamoDB locking.
+
+🔗 [View Repository](https://github.com/RealKingHubs/terraform-vpc-docker-automation)
+
+---
+
+#### 3. Secure AWS Architecture with Ansible Automation
+> Built a secure AWS environment with private EC2 instances, Bastion Host access via SSH ProxyJump, fully automated server configuration using Ansible, and a load-balanced high availability setup.
+
+🔗 [View Repository](https://github.com/RealKingHubs/aws-ansible-secure-web-deployment)
+
+---
+
+### 💡 Engineering Philosophy
+
+> *"If an infrastructure isn't documented and automated, it isn't production-ready."*
+
+---
