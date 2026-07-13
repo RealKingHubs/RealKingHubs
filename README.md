@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Odo Kingsley Uchenna 👋</h1>
-<h3 align="center">Cloud & DevOps Engineer | Building Secure, Scalable Infrastructure on AWS</h3>
+<h3 align="center">Cloud & DevOps Engineer | Software Developer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kingsley-odo-8b81a6369/">
@@ -17,13 +17,12 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Cloud Engineering Student at **AltSchool Africa** (Class of 2025)
-- 🏆 Scored **89/100** in First Semester and a **perfect 100/100** in Second Semester
-- ☁️ I specialize in building **secure, highly available** cloud infrastructure on AWS
-- 🔧 I move infrastructure away from manual Click-Ops toward **full automation**
-- ✍️ I document every project with architectural diagrams on **Medium**
-- 📍 Based in **Ewekoro, Ogun State, Nigeria**
-- 💼 **Available for Remote Cloud Engineer / DevOps Internships**
+Cloud and DevOps Engineer with practical experience designing AWS environments, automating 
+software deployments, and managing Linux infrastructure. Proficient in Infrastructure as Code using 
+Terraform, container management with Kubernetes, and continuous integration via GitHub Actions. 
+Strong technical background in high-availability networking, system monitoring, and live-incident 
+troubleshooting. Focused on removing manual deployment problems, securing cloud perimeters, and 
+helping engineering teams scale applications reliably.
 
 ---
 
@@ -45,10 +44,11 @@
 
 ### 🚀 Featured Projects
 
-#### 1. CI/CD Pipeline — Containerized Node.js to AWS ECS Fargate
-> Designed and implemented a secure production-grade CI/CD pipeline using GitHub Actions with OIDC authentication to deploy a containerized Node.js backend to AWS ECS Fargate — zero long-lived credentials.
+#### 1. Drupal 11 on AWS — Full DevOps Pipeline
 
-🔗 [View Repository](https://github.com/RealKingHubs/CICD-Automation-Pipeline)
+> Bincom Dev Center assigned a production-grade Drupal CMS deployment on AWS with no manual steps allowed. Every resource had to be code, every server access had to be keyless, and the whole thing had to survive a single availability zone going down. Built the entire stack from scratch: Terraform for infrastructure across two AZs, Ansible over AWS SSM with zero SSH keys, a custom Docker image, Kubernetes on Kind, a four-job GitHub Actions pipeline using OIDC authentication, Prometheus and Grafana covering CPU through ALB response time p99, and an ELK stack shipping live logs from both servers. The site ran on two healthy EC2 instances behind an ALB with auto-scaling, full monitoring, and a deployment pipeline that required manual approval before anything touched production.
+
+   🔗 [View Repository](https://github.com/RealKingHubs/drupal-app-to-aws-production)
 
 ---
 
@@ -65,8 +65,14 @@
 🔗 [View Repository](https://github.com/RealKingHubs/aws-ansible-secure-web-deployment)
 
 ---
+#### 4. CI/CD Pipeline — Containerized Node.js to AWS ECS Fargate
+> Designed and implemented a secure production-grade CI/CD pipeline using GitHub Actions with OIDC authentication to deploy a containerized Node.js backend to AWS ECS Fargate — zero long-lived credentials.
 
-### 💡 Engineering Philosophy
+🔗 [View Repository](https://github.com/RealKingHubs/CICD-Automation-Pipeline)
+
+---
+
+### 💡 My Engineering Philosophy
 
 > *"If an infrastructure isn't documented and automated, it isn't production-ready."*
 
