@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Odo Kingsley Uchenna 👋</h1>
+<h1 align="center">Hi, I'm Odo Kingsley Uchenna </h1>
 <h3 align="center">Cloud & DevOps Engineer | Software Developer</h3>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 Cloud and DevOps Engineer with practical experience designing AWS environments, automating 
 software deployments, and managing Linux infrastructure. Proficient in Infrastructure as Code using 
@@ -26,7 +26,7 @@ helping engineering teams scale applications reliably.
 
 ---
 
-### 🛠️ Technical Toolkit
+### Technical Toolkit
 
 <p>
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
@@ -42,7 +42,7 @@ helping engineering teams scale applications reliably.
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 #### 1. High Availability Drupal Setup: Automated Cloud Infrastructure
 
@@ -90,7 +90,7 @@ helping engineering teams scale applications reliably.
 
 ---
 
-### 📜 Certifications & Awards
+### Certifications & Awards
 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
@@ -108,7 +108,7 @@ helping engineering teams scale applications reliably.
 
 ---
 
-### 💡 My Engineering Philosophy
+### My Engineering Philosophy
 
 > *"If an infrastructure isn't documented and automated, it isn't production-ready."*
 
