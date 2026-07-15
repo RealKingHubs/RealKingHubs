@@ -17,12 +17,8 @@
 
 ### About Me
 
-Cloud and DevOps Engineer with practical experience designing AWS environments, automating 
-software deployments, and managing Linux infrastructure. Proficient in Infrastructure as Code using 
-Terraform, container management with Kubernetes, and continuous integration via GitHub Actions. 
-Strong technical background in high-availability networking, system monitoring, and live-incident 
-troubleshooting. Focused on removing manual deployment problems, securing cloud perimeters, and 
-helping engineering teams scale applications reliably.
+Award-winning Cloud Engineer specializing in building secure AWS infrastructure, automating manual configuration tasks, and keeping systems highly available. Recognized as the Overall Best Learner in the School of Engineering and the Best Learner in Cloud Engineering. Skilled at shifting outdated manual configurations into resilient, automated cloud setups and finding root causes during live production outages.
+
 
 ---
 
